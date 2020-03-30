@@ -1,4 +1,4 @@
-Econst ObjectId = require('mongodb').ObjectID;
+const ObjectId = require('mongodb').ObjectID;
 const db = require('../conection/connection');
 const { pagination } = require('./utils');
 
