@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d50d56ed.chunk.css",
+    "main.js": "/static/js/main.6569144e.chunk.js",
+    "main.js.map": "/static/js/main.6569144e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b18bf652.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b18bf652.js.map",
+    "static/js/2.fadd4e52.chunk.js": "/static/js/2.fadd4e52.chunk.js",
+    "static/js/2.fadd4e52.chunk.js.map": "/static/js/2.fadd4e52.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.70cc20ae9c767d57989aff52e8f2cddf.js": "/precache-manifest.70cc20ae9c767d57989aff52e8f2cddf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d50d56ed.chunk.css.map": "/static/css/main.d50d56ed.chunk.css.map",
+    "static/js/2.fadd4e52.chunk.js.LICENSE.txt": "/static/js/2.fadd4e52.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/Thundergood.c2c4839f.ttf",
+    "static/media/burger.png": "/static/media/burger.be93cb1b.png",
+    "static/media/LoginForm.css": "/static/media/correo.6f9f5073.svg",
+    "static/media/garbage.svg": "/static/media/garbage.56b66ec8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b18bf652.js",
+    "static/js/2.fadd4e52.chunk.js",
+    "static/css/main.d50d56ed.chunk.css",
+    "static/js/main.6569144e.chunk.js"
+  ]
+}
