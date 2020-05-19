@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+const path = require('path');
 // const mongoClient = require('mongodb').MongoClient;
 const connectionMongoDB = require('./conection/connection');
 const config = require('./config');
@@ -20,7 +21,9 @@ const init = async () => {
       // parse application/x-www-form-urlencoded
       app.use(express.urlencoded({ extended: false }));
       app.use(express.json());
+      app.use("/", express.static(path.join(__dirname,'dist')));
       app.use(authMiddleware(secret));
+      
 
       // Registrar rutas
       routes(app, (err) => {
